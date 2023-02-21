@@ -1,0 +1,2 @@
+# grupal
+ pactica grual
